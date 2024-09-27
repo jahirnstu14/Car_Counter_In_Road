@@ -29,17 +29,11 @@ To get started with this project, follow these steps:
 
 Clone the repository to your local machine:
 
-`git clone https://github.com/your-username/car-counter-on-road.git
-cd car-counter-on-road` 
+`git clone https://github.com/jahirnstu14/Car_Counter_In_Road.git' 
 
 ### 2. **Set Up a Virtual Environment**
 
-Creating a virtual environment ensures that the dependencies are isolated from your global Python environment. Follow these steps:
-
-#### On Windows:
-
-`python -m venv car_counter_env
-car_counter_env\Scripts\activate` 
+Creating a virtual environment ensures that the dependencies are isolated from your global Python environment. 
 
 
 ### 3. **Install Dependencies**
